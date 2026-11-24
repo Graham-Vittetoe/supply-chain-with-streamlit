@@ -1,0 +1,8 @@
+[theme]
+headingFontSizes = ["5rem", "2rem", "1.25rem"] #[h1/title, h2/header, h3/subheader]
+
+[theme.sidebar]
+backgroundColor = "#6F7BF2"
+secondaryBackgroundColor = "#040B40"
+textColor = "#FFFFFF"
+
