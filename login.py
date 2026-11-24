@@ -1,5 +1,5 @@
 import streamlit as st
-from backend.general import load_supplier_names, get_supplier_id
+from backend.dashboard_login import load_supplier_names, get_supplier_id
 
 st.set_page_config(page_title="Supply Chain Manager", layout="centered")
 
